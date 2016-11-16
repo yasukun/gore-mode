@@ -131,8 +131,8 @@
 ;;
 
 ;;;###autoload
-(define-derived-mode gore-mode haskell-mode "GORE"
-  "Major mode for editing haskell.")
+(define-derived-mode gore-mode go-mode "GORE"
+  "Major mode for editing go.")
 
 (provide 'gore-mode)
 
